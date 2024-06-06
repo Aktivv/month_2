@@ -46,3 +46,4 @@ beka.__balance=100000000
 beka._Bank__balance = 75
 # print(dir(beka))
 print(beka)
+'''sss'''
